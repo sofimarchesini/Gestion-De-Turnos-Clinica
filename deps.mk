@@ -1,0 +1,1 @@
+zyxcba: zyxcba.o csv.o creador.o general.o estado.o paciente.o hash.o lista.o abb.o cola.o pila.o heap.o strutil.o
